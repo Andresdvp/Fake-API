@@ -207,5 +207,15 @@
         "descripcion": "lorem askmdpasmdamsd{opaks pd{asmdm sñsdasdma slñkmda skldmas",
         "id": "bd336d6f-23ea-4937-8a8f-eb494306ce9e"
       }
+    ],
+    "usuarios":[
+        {
+            "nombre": "andres",
+            "apellido": "valencia",
+            "nCedula":"123456789",
+            "fecChadenacimiento":"01/11/2023",
+            "email":"andres@gmail.com",
+            "password":"123456@Aa"
+        }
     ]
   }
