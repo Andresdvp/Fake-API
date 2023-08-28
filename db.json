@@ -212,8 +212,8 @@
     {
       "nombre": "andres",
       "apellido": "valencia",
-      "nCedula": "123456789",
-      "fecChadenacimiento": "01/11/2023",
+      "cedula": "123456789",
+      "fechadeNacimiento": "01/11/2023",
       "email": "andres@gmail.com",
       "password": "123456@Aa",
       "id":1
@@ -221,8 +221,8 @@
     {
       "nombre": "laura",
       "apellido": "valencia",
-      "nCedula": "123456789",
-      "fecChadenacimiento": "01/11/2023",
+      "cedula": "123456789",
+      "fechadeNacimiento": "01/11/2023",
       "email": "laura@gmail.com",
       "password": "123456@Aa",
       "id": 2
