@@ -227,5 +227,26 @@
       "password": "123456@Aa",
       "id": 2
     }
-  ]
+  ],
+  "videos":[
+    {
+      "titulo":"Blue Beetle",
+      "videoUrl": "https://youtu.be/nKPbfIU442g?si=5yGOwKvzDHHPb_1u",
+      "imagenUrl":"https://i.ytimg.com/vi/nKPbfIU442g/maxresdefault.jpg",
+      "categoria":"cursos",
+      "descripcion":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Qui quibusdam fugiat voluptas tempore aperiam odit dolorem rem. Magni, fuga numquam excepturi officiis nobis ipsa adipisci aperiam reiciendis! Asperiores, molestiae aut!\nMinima maxime tenetur, possimus corrupti officia natus ut consequuntur iusto dolorum expedita labore architecto praesentium, inventore dolores voluptatem fugiat laborum cumque. Praesentium iste quasi aut tempore molestiae obcaecati blanditiis sit.\nFacere natus magnam quia iusto nobis facilis enim? Possimus dolorem hic in rem impedit sequi dolorum expedita quis quaerat. Quibusdam repellendus odio iste provident harum repudiandae perspiciatis voluptate expedita pariatur!\nEsse harum non voluptate accusamus deleniti quo ut totam, quaerat voluptatum, consequuntur quia cumque amet animi fugit vitae hic aliquid maiores possimus illo. Delectus voluptatum quaerat officiis ab velit totam!\nDolorum officia porro eum repellendus eveniet ea quia beatae sit eius ipsa quos exercitationem ad officiis recusandae vel ut, nihil perferendis voluptatem accusamus aperiam! Ducimus est ratione odit fugiat molestiae?",
+      "id":1
+  }
+],
+
+"categoria":[
+  {
+    "nombre":"curos",
+    "color":"#fff",
+    "codigoSeguo":1524,
+    "id":1
+  }
+]
+
+
 }
